@@ -1,0 +1,16 @@
+.block{
+    width:100px;
+    height:50px;
+    background-color:blue;
+    margin-left:10px;
+}
+.text{
+    width:100px;
+    height:50px;
+    background-color:red;
+}
+
+.container{
+    width:800px;
+    margin:0 auto;
+}
